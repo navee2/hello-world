@@ -64,6 +64,8 @@ for i in range(10)
 
 ## Links
 [My Github page](https://github.com/navee2)
+
+My photo:
 ![My Photo](./img/Naveen_profile.jpg)
 
 
