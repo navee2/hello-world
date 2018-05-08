@@ -58,8 +58,8 @@ for i in range(10)
 
 * First item
 * second item
-..* First sub-item
-..* Second sub-item
+    * First sub-item
+    * Second sub-item
 * Third item
 
 ## Links
