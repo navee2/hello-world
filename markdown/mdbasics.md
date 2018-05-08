@@ -1,5 +1,4 @@
 # This is the test file for markdown
-___
 * First Header
 # First Header
 * Second Header
