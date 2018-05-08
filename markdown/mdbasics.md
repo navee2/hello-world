@@ -41,4 +41,27 @@ Second Header
 
 ~~Striked text~~
 
+## Programming Code
+```python
+for i in range(10)
+	print(i)
+```
+
+## Block quotes
+> This is a block quote
+> This is helpful while quoting some particular text quoted by someone else
+
+## Lists
+1. First item
+2. Second item
+3. Third item
+
+* First item
+* second item
+..* First sub-item
+..* Second sub-item
+* Third item
+
+## Links
+[My Github page](https://github.com/navee2)
 
